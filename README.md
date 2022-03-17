@@ -1,8 +1,10 @@
 # Cpp-Projects
 These are projects consisting of C++ algorithms
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>
 </div>
+---
 ## Table of Contents
 * [Bitonic Mergesort](#bitonic_mergesort)
 * [Binary Splay Tree](#binary_splay_tree)
