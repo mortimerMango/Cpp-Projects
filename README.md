@@ -17,5 +17,8 @@ traditional mergesort algorithm.
 ### Binary Splay Tree
 This program combines a binary search tree with 
 splaying. Where the latest element is rotated to 
-the root. This program makes use the of the zig, zig-zig, and 
-zig-zag rotation pattern.
+the root. 
+#### This program makes use of the following rotation patterns
+* zig
+* zig-zig
+* zig-zag 
