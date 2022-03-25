@@ -2,8 +2,8 @@
 #### These are projects consisting of C++ algorithms
 
 ## Table of Contents
-* [Bitonic Mergesort](#bitonic_mergesort)
-* [Binary Splay Tree](#binary_splay_tree)
+* [Bitonic Mergesort](#bitonic-mergesort)
+* [Binary Splay Tree](#binary-splay-tree)
 
 ### Bitonic Mergesort
 ```
